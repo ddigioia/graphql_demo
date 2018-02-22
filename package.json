@@ -4,7 +4,7 @@
   "description": "graphql demo",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev:server": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "express-graphql": "^0.6.12",
+    "graphql": "^0.13.1",
     "nodemon": "^1.15.1"
   }
 }
