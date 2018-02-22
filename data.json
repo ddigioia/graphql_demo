@@ -1,7 +1,22 @@
 {
-  "customers" : [
-    { "id": "1", "name": "John Doe", "email": "jdoe@gmail.com", "age": 35 },
-    { "id": "2", "name": "Steve Smith", "email": "ssmith@gmail.com", "age": 45 },
-    { "id": "3", "name": "Brittany Burns", "email": "bburns@gmail.com", "age": 25 }
+  "customers": [
+    {
+      "id": "1",
+      "name": "Mr.T",
+      "email": "mistamista@gmail.com",
+      "age": 65
+    },
+    {
+      "id": "2",
+      "name": "chuck norris",
+      "email": "chucky@gmail.com",
+      "age": 909
+    },
+    {
+      "id": "3",
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "args": 34
+    }
   ]
 }
